@@ -268,7 +268,7 @@ Instrucciones:
 Usa operadores de comparación, if-else-if, y parseInt() para convertir los datos numéricos. */
 
 
-console.log("-------------Ejercicio 4-----------------");
+console.log("-------------Ejercicio 5-----------------");
 alert(`Ejercicio 5
     Calculadora de Edad y Etapa de vida`);
 
